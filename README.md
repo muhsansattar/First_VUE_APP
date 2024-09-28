@@ -24,6 +24,17 @@ Welcome to my first Vue.js application! This project showcases my journey into b
 ### 4. Real-time Chat (In Development)
 - A real-time chat feature is currently under development, which will allow users to communicate seamlessly.
 
+
+## Tech Stack
+
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.
+- **Pinia**: A state management library for Vue.js, providing a simple and intuitive API for managing application state.
+- **Vue Router**: The official router for Vue.js, enabling navigation between different pages within the application.
+- **Vite**: A fast build tool that offers an optimized development experience.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript, enhancing code quality and maintainability.
+- **CSS**: Used for styling and layout, providing a clean and user-friendly interface
+
+
 ## 🌐 Socials:
 
 [![Upwork](https://img.shields.io/badge/upwork-%2230175C2.svg?logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/~01b8262a0ffa2f4860)
